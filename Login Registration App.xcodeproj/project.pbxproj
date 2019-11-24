@@ -13,6 +13,8 @@
 		3499004E238A0C5900075F7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3499004D238A0C5900075F7D /* Assets.xcassets */; };
 		34990051238A0C5900075F7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34990050238A0C5900075F7D /* Preview Assets.xcassets */; };
 		34990054238A0C5900075F7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34990052238A0C5900075F7D /* LaunchScreen.storyboard */; };
+		3499005C238A19C800075F7D /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3499005B238A19C800075F7D /* Dashboard.swift */; };
+		3499005E238A2F5B00075F7D /* Registration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3499005D238A2F5B00075F7D /* Registration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		34990050238A0C5900075F7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		34990053238A0C5900075F7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34990055238A0C5900075F7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3499005B238A19C800075F7D /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
+		3499005D238A2F5B00075F7D /* Registration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Registration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				34990047238A0C5600075F7D /* AppDelegate.swift */,
 				34990049238A0C5600075F7D /* SceneDelegate.swift */,
 				3499004B238A0C5600075F7D /* ContentView.swift */,
+				3499005B238A19C800075F7D /* Dashboard.swift */,
+				3499005D238A2F5B00075F7D /* Registration.swift */,
 				3499004D238A0C5900075F7D /* Assets.xcassets */,
 				34990052238A0C5900075F7D /* LaunchScreen.storyboard */,
 				34990055238A0C5900075F7D /* Info.plist */,
@@ -148,6 +154,8 @@
 			files = (
 				34990048238A0C5600075F7D /* AppDelegate.swift in Sources */,
 				3499004A238A0C5600075F7D /* SceneDelegate.swift in Sources */,
+				3499005C238A19C800075F7D /* Dashboard.swift in Sources */,
+				3499005E238A2F5B00075F7D /* Registration.swift in Sources */,
 				3499004C238A0C5600075F7D /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
